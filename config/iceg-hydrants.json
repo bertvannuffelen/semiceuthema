@@ -2,7 +2,7 @@
 {
   "name": "iceg-hydrants",
   "type": "ap",
-  "eap": "ICEG-Hydrants-AP-v09.eap",
+  "eap": "ICEG-Hydrants-AP-v11.eap",
   "diagram": "ICEG-Hydrants-AP",
   "template": "iceg-hydrants_en.j2",
   "title": "Hydrants",
